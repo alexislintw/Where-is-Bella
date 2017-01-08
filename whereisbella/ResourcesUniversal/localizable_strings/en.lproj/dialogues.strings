@@ -1,0 +1,241 @@
+/* 
+  dialogues.strings
+  bella
+
+  Created by Alexis Lin on 13/5/14.
+
+  format: act#scene#dialogue#
+*/
+
+//Act 0
+"a0s1d1"="Bella, a one and a half year old girl, who had not learned to talk yet,";
+
+"a0s2d1"="likes to walk around and explore this new and interesting world.";
+
+"a0s3d1"="Today is Bella's brother Kaden's third birthday";
+
+"a0s4d1"="and everyone came to celebrate it";
+"a0s4d2"="at this house by the Santa Monica Beach in California.";
+
+"a0s5d1"="While everyone was celebrating, Kaden's robot- King Kong,";
+"a0s5d2"="and Bella's favorite doll- Molly realized that Bella was missing!";
+
+"a0s6d1"="Not wanting to spoil the joyful atmosphere at the party for Kaden's birthday,";
+
+"a0s7d1"="King Kong and Molly spread the magical bubble \"Time Suspension Bubble\" to freeze everyone at the celebration.";
+"a0s7d2"="Either Bella got lost by herself or was taken by someone, King Kong the robot, and Molly the doll have to save their little master Bella before the \"Time Suspension Bubble\" expires!";
+
+"a0s8d1"="When was the last time you saw Bella?";
+"a0s8d2-1"="In the kitchen, when Annie took Bella's hand and led her out. Emily was holding Kaden's birthday gift coming into the kitchen and blocked my sight.";
+"a0s8d2-2"="I am not sure if they are still somewhere in the house or if they had left the house.";
+"a0s8d3-1"="Annie walked out holding Bella's hand, if they did not meet up with someone else, they should have not gone far.";
+"a0s8d3-2"="Let's try to find Annie first, then we should be able to find out where Bella is.";
+
+//Act 1
+
+//Scene 1-1
+"a1s1d1"="Are these Bella's shoes? Why would they be hidden in the play room in Annie's house?";
+"a1s1d2-1"="All the items in the play room seem to mean something to Annie. A little broken doll with Annie's name on it...";
+"a1s1d2-2"="a pair of little shoes also with Annie' name on them, and pictures of Annie in the kindergarten...";
+"a1s1d3"="Could Annie think that Bella's shoes were hers too?";
+"a1s1d4"="Why would Annie think that? She is 7 years old now. She should be able to understand that she needs to give other people's belongings back to them.";
+"a1s1d5"="So, there must be some motivation and reason why Annie kept Bella's shoes.";
+"a1s1d6"="Such as...?";
+"a1s1d7"="Bella should be like something precious and worth collecting to Annie.";
+
+//Scene 1-2
+"a1s2d1"="Look at this paper plane, there are letters on the paper.";
+"a1s2d2-1"="This is a letter Annie wrote to her father.";
+"a1s2d2-2"="『Dear Daddy, I don't want to have a new father. I hope you can come back and be re-married to mom and have a little sister to keep me accompanied,";
+"a1s2d2-3"="one just as cute as Bella next door. I will help to take care of my little sister! Daddy, could you please come home? Annie. June 2013.』";
+"a1s2d3"="Annie must be very sad because her mother is going to be married to a new father.";
+"a1s2d4"="This letter was written in June this year.";
+"a1s2d5"="But Annie's dad passed away last winter in a car accident.";
+"a1s2d6"="Annie couldn't accept the truth and suffer from a deep sadness in her heart.";
+
+//Scene 1-4
+"a1s4d1"="Is this Annie's hand writing on the sheet music?";
+"a1s4d2-1"="The lyrics says \"My sister Bella\" daddy smiles and pushes the swings for me and my sister... ";
+"a1s4d2-2"="I want to fly with my sister, fly to the top of the wonderful world... we play together, play together joyfully...";
+"a1s4d3"="Could it be that Annie is going to take Bella to go look for her father?";
+"a1s4d4"="We need to use the spirit calling mirror to ask Annie where did she hide Bella?";
+
+//Scene 1-5
+"a1s5d1"="In her sub-consciousness Annie was jealous of Kaden for having a sister. She hoped that Kaden would know how it is like to be alone. So she took Bella away at his birthday party.";
+"a1s5d2"="If it was like what Annie had said, it was Mr. Johnny who last saw Bella, we should go ask Mr. Johnny about it.";
+
+//Act 2
+
+//Scene 2-1
+"a2s1d1"="This is the Mr. Johnny's missing dog poster from last year.";
+"a2s1d2-1"="I recall that the neighborhood kids always like to take the dog out secretly.";
+"a2s1d2-2"="That particular time, the kids played for too long and did not notice when the dog was gone and they lost it.";
+"a2s1d3"="Mr. Johnny was very mad and didn't want to talk to the neighbors anymore.";
+
+//Scene 2-2
+"a2s2d1"="It was Bella's little pink ball in the closet! It was missing when we were playing on the beach...";
+"a2s2d2"="Why would Mr. Johnny hide Bella's little ball?";
+
+//Scene 2-4
+"a2s4d1"="It's strange. Isn't this the little garden at Annie's home? Why would there be a black working glove?";
+"a2s4d2"="There's a letter J in the glove. Could this be Mr. Johnny's working glove?";
+"a2s4d3"="Let's use the spirit calling mirror to prompt Mr. Johnny and get the truth out.";
+
+//Scene 2-5
+"a2s5d1"="Mr. Johnny looks cold. But he would want to take off his gloves and to help little Bella up when he saw her falling down and crying.";
+"a2s5d2-1"="Who would know if what he said was true or not? He hates kids and is unfriendly to the community.";
+"a2s5d2-2"="It could be that he wanted to kidnap little Bella so he took off his gloves.";
+"a2s5d3"="Did he say that he saw a nurse? And the nurse seemed to know Bella?";
+"a2s5d4"="Could he be talking about nurse Emily?";
+"a2s5d5"="Did you not say that you saw nurse Emily walking into the kitchen at Bella's home and blocking your view to Annie and Bella?";
+"a2s5d6"="That's right! She should have be chatting with everyone at Bella's home. Why was she out here?";
+"a2s5d7"="We have to find nurse Emily!";
+
+//Act 3
+
+//Scene 3-2
+"a3s2d1"="Why is there a baby strap here?";
+"a3s2d2"="That's weird! This is not Bella's. And it should not be Annie's either.";
+"a3s2d3"="Let's check carefully again to see if there are other unusual things.";
+
+//Scene 3-3
+"a3s3d1"="Here's Emily's cell phone.";
+"a3s3d2"="The text says: We had broken up already. Please stop coming to harass me. Please stop making up stories about a child of ours as well.";
+"a3s3d3"="It looks like quarrels with her ex-boyfriend.";
+"a3s3d4"="There's also an airline ticket to LA in Emily's purse. It's for tonight.";
+"a3s3d5"="Why is Emily flying to LA tonight? Is she going to see her boyfriend?";
+"a3s3d6"="But why would she come to Kaden's party in such a hurry right before her flight?";
+
+//Scene 3-4
+"a3s4d1"="Look! There's a note in Michelle's jacket hanging on the wall there.";
+"a3s4d2"="It says: 16-year-old Sarah, student, single mother. 2-month-old baby girl for adoption. Nurse Emily. Phone number 95499909997.";
+"a3s4d3"="From this note it looks like there's a secret transaction going on between Emily and Michelle.";
+"a3s4d4"="Is this selling a kid?";
+"a3s4d5"="Or is someone wanting to buy a kid?";
+"a3s4d6"="Nurse Emily must know. There's her phone number on the note. Let's ask her with the spirit calling mirror.";
+
+//Scene 3-5
+"a3s5d1-1"="Sounds like that Emily is really in pain. ";
+"a3s5d1-2"="She really wants to have a happy family and be reunited with her ex-boyfriend.";
+"a3s5d2"="You cannot force love. Emily is so obsessed that she is hurting herself as well as her ex-boyfriend.";
+"a3s5d3"="If what Emily said was true, that she left with Pierre when she ran into him, we must go look for Pierre, to find out what the truth is.";
+
+//Act 4
+
+//Scene 4-1
+"a4s1d1"="Strange, why is there a trolley here?";
+"a4s1d2"="It has the name of Pierre's studio on it.";
+"a4s1d3"="Why is this trolley here? It can not only carry goods but kids as well. Kids can even sleep in it.";
+
+//Scene 4-3
+"a4s3d1"="This is a bracelet that Bella always carries with her! Why is it here?";
+"a4s3d2"="It's on the beach viewing platform. Does that mean Bella had been here?";
+"a4s3d3"="I think Mr. Pierre is very suspicious, he was in prison before.";
+"a4s3d4"="In prison? What for?";
+"a4s3d5"="I heard that it was at a party at his friend's house when he was 16, the group of young people was on drug and went out of control when he accidentally injured someone.";
+"a4s3d6"="So, how did he start his own glass art studio?";
+"a4s3d7"="He met a master glass maker when he was in prison. So, Pierre started doing glass art creation when he was released on parole.";
+"a4s3d8-1"="If Pierre is someone who is so dedicated to art creation, he should be someone who has very a delicate mind.";
+"a4s3d8-2"="Besides, he wouldn't commit other crimes while on parole.";
+
+//Scene 4-4
+"a4s4d1"="The thoughts of someone who would commit a crime often is illogical.";
+"a4s4d2"="We have to find more evidence in order to make the whole thing clear.";
+"a4s4d3"="Look! It's Bella's pinafore! Why is it in Pierre's studio?";
+
+//Scene 4-5
+"a4s5d1"="I hope what Pierre said was all true.";
+"a4s5d2"="If he had proven that Emily had left the scene, we would have to ask who else could be a suspect?";
+"a4s5d3-1"="This Ryan is a mess! He borrowed Pierre's trolley, but instead of returning it to Pierre, he just left it on the beach.";
+"a4s5d3-2"="I wonder what other naughty things will he be up to!";
+"a4s5d4"="We will have to check out Ryan.";
+
+//Act 5
+
+//Scene 5-1
+"a5s1d1"="Why is there a boy's BB gun in the play room in Annie's home?";
+"a5s1d2"="Who says that a girl cannot play with guns?";
+"a5s1d3"="There are a few letters engraved on the gun.";
+"a5s1d4"="RN... it's Ryan's name! Why is his gun in Annie's play room?";
+"a5s1d5"="Looks like Ryan had been here. A little boy always pays special attention to the girl that he likes.";
+
+//Scene 5-3
+"a5s3d1"="Look! Here's a slipper of Ryan's.";
+"a5s3d2"="One slipper? Was he running away in a panic?";
+"a5s3d3"="Look at the decorations here, it is not like a common terrifying tunnel.";
+"a5s3d4"="It seems like Ryan likes to go explore everywhere!";
+
+//Scene 5-4
+"a5s4d1"="Here's Ryan's frisbee again. Seems like he had been here too.";
+"a5s4d2"="This guy is such a troublemaker! Doesn't his parents keep an eye on him at all?";
+"a5s4d3"="Sometimes an adult just can't control what a kid does!";
+"a5s4d4"="Still, let's ask Ryan what had he done really?";
+
+//Scene 5-5
+"a5s5d1"="You see! I told you that Ryan is a kid who likes to explore and poke fun at the girls.";
+"a5s5d2"="Don't underestimate what damage a kid can do! Mr. Johnny's dog got lost exactly because of the mischievous actions of kids.";
+"a5s5d3-1"="Ryan mentioned uncle Robert. He was at Kaden's party as well.";
+"a5s5d3-2"="Let's go see whether if he had recorded anything during this time period. Maybe we will find some new clues.";
+
+//Act 6
+
+//Scene 6-1
+"a6s1d1"="This is strange! Did Mrs. Robert not just give birth to a fourth boy? Why is there a baby girl's diaper?";
+"a6s1d2"="That is indeed strange! And it's the same kind as what Bella's wearing.";
+"a6s1d3"="All the images in the dolly are little kids.";
+"a6s1d4"="Maybe he is a bit pedophile?";
+
+//Scene 6-2
+"a6s2d1"="Why is there a baby's rattle toy in Robert's camera bag?";
+"a6s2d2"="Maybe it's a prop to make babies laugh during the photo shoot.";
+
+//Scene 6-4
+"a6s4d1"="This is Robert's camera.";
+"a6s4d2"="Let's see what pictures had he taken.";
+"a6s4d3"="Oh no! There are all pictures of Bella! Robert's eyeing Bella!";
+"a6s4d4-1"="Let's try not to make a big fuss first! Bella is so cute, she will definitely draw a photographer's attention... ";
+"a6s4d4-2"="But, whole camera full of Bella's images, and it's at Kaden's birthday party. This does sound a bit strange!";
+"a6s4d5"="He must be an extreme pedophilia... That's terrible! Maybe that baby's rattle toy was used to lure Bella!";
+
+//Scene 6-5
+"a6s5d1"="Taking pictures is a process of creation, as well as a compensatory mentality, trying to retain the memories.";
+"a6s5d2"="Actually, girls are as good as boys, why should we desire a particular gender so much?";
+"a6s5d3"="That's exactly what people say, \"What you don't have, you want.\" Taking pictures is also a way to own, or I should say... another form of owning.";
+"a6s5d4"="Did Robert say that he last saw Michelle and Emily talking about some secrets?";
+"a6s5d5"="Looks like Michelle is the last person for us to investigate!";
+
+//Act 7
+
+//Scene 7-1
+"a7s1d1"="Why is Bella's pacifier in Michelle's purse?";
+"a7s1d2"="I don't remember this as Bella's pacifier. Maybe it's just an ordinary pacifier instead of Bella's?";
+"a7s1d3"="Are you sure? You have to think carefully about it, don't make a mistake!";
+"a7s1d4"="It does look quite alike... Bella has many pacifiers, I can't be sure if this is Bella's.";
+
+//Scene 7-2
+"a7s2d1"="Why would there be so many baby pictures? It's arranged so comfortably! Bella would definitely love to play here!";
+"a7s2d2"="Hey, don't forget that we are still doing our investigation!";
+"a7s2d3"="I know! I know! Look! Here's a picture of Bella taken at the hospital when she was just born!";
+"a7s2d4"="Strange! How did Michelle get this photo?";
+"a7s2d5"="Did we not just find out that Ms. Michelle seemed to have done something secret for Emily at the hospital?";
+"a7s2d6"="Ms. Emily was the nurse at the hospital when Bella was born!";
+"a7s2d7"="So, Bella is the baby that Ms. Michelle wants to adopt?";
+
+//Scene 7-4
+"a7s4d1"="Look! This is an IOU of a huge loan from Michelle to Pierre.";
+"a7s4d2"="What did I say! How could Pierre have all the money to start a business right after he came out of the prison?";
+"a7s4d3-1"="There must be a reason why Michelle was willing to loan Pierre the money.";
+"a7s4d3-2"="It also says on the back of this IOU that a creative treasure of the world can be used as the payment.";
+"a7s4d4"="World treasure? Creative art? She had such confidence in him!";
+"a7s4d5"="I think Michelle meant something else.";
+"a7s4d6"="A world treasure... a real nursery... you mean what she was referring to as the world treasure was a baby!";
+
+//Scene 7-5
+"a7s5d1"="It's true that it's unfair that a piece of paper should determine someone's future!";
+"a7s5d2"="Hey, we are looking for suspects. Don't become too sympathetic!";
+"a7s5d3"="Looks like one of these seven had hidden the truth.";
+"a7s5d4"="Let's spread out these clues and try to find Bella fast!";
+
+//Ending
+"a8s1d1"="King Kong and Molly rush to the car. They find Emily's car, with some luggage inside, and a window opened up with a little gap. Inside the window Bella safely sleeps in the safety seat. ";
+"a8s2d1"="After the mystery is solved, Bella rubs her eyes and gives a bright smile. Just like nothing had ever happened.";

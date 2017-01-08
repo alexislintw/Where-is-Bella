@@ -1,0 +1,241 @@
+/* 
+  dialogues.strings
+  bella
+
+  Created by Alexis Lin on 13/5/14.
+
+  format: act#scene#dialogue#
+*/
+
+//Act 0
+"a0s1d1"="Bella es una niña encantadora y medio año de edad, ella no sabia hablar tanto,";
+
+"a0s2d1"="pero le gusta a caminar a todos lados para explorar este nuevo mundo.";
+
+"a0s3d1"="Hoy es el hermano de Bella, Kadan 3 años del cumpleaños,";
+
+"a0s4d1"="hay 7 invitados llegaron a la playa de Santa Mónica en California";
+"a0s4d2"="junto a la casa para celebrar el cumpleaños de Kadan.";
+
+"a0s5d1"="En la celebración gozosa, El juguete favorito de Bella -";
+"a0s5d2"="Robot King Kong y Muñeca Jasmine descubri que Bella se perdió!";
+
+"a0s6d1"="Como no quería estropear el ambiente de alegría en la fiesta de cumpleaños de Kaden,";
+
+"a0s7d1"="King Kong y Molly extendió la burbuja mágica \"Tiempo Suspensión burbuja\" de congelar todo el mundo en la celebración. Cualquiera de Bella se perdió o fue tomada por alguien,";
+"a0s7d2"="Robot King Kong y Muñeca Molly tienen que salvar a su pequeña maestra Bella antes de que expire el \"Tiempo Suspensión burbuja\"!";
+
+"a0s8d1"="¿Cuándo fue la última vez que vio a Bella?";
+"a0s8d2-1"="En la cocina, cuando Annie tomó la mano de Bella y llevado a cabo. Emily estaba celebrando el regalo de cumpleaños de Kaden entrando en la cocina y bloqueó mi vista.";
+"a0s8d2-2"="No estoy seguro de si todavía están en algún lugar de la casa o si habían salido de la casa.";
+"a0s8d3-1"="Annie salió y sosteniendo de la mano de Bella, si no se encuentran con otra persona, que no debería haber ido muy lejos. Vamos a tratar de encontrar Annie primero,";
+"a0s8d3-2"="entonces deberíamos ser capaces de averiguar donde Bella es.";
+
+//Act 1
+
+//Scene 1-1
+"a1s1d1"="¿Son estos zapatos de Bella? ¿Por qué estarían ocultos en la sala de juegos en la casa de Annie?";
+"a1s1d2-1"="Todos los artículos en la sala de juegos parecen significar algo para Annie. Una pequeña muñeca rota con el nombre de Annie...";
+"a1s1d2-2"="un par de pequeños zapatos también con el nombre de Annie, y las imágenes de Annie en el jardín de infancia ...";
+"a1s1d3"="Podría Annie cree que los zapatos de Bella eran de ella también?";
+"a1s1d4"="¿Por qué pensar que Annie? Ella tiene 7 años ahora. Ella debe ser capaz de entender que tiene que dar las pertenencias de otras personas de nuevo a ellos.";
+"a1s1d5"="Por lo tanto, tiene que haber un poco de motivación y por lo que Annie mantiene los zapatos de Bella.";
+"a1s1d6"="Tales como ...?";
+"a1s1d7"="Bella debe ser como algo precioso y vale la pena recoger a Annie.";
+
+//Scene 1-2
+"a1s2d1"="Mira este avión de papel, hay letras en el papel.";
+"a1s2d2-1"="Esta es una carta de Annie escribió a su padre.";
+"a1s2d2-2"="『Querido papá, yo no quiero tener un nuevo padre. Espero que pueda volver y se volvió a casar con la madre y tiene una hermana pequeña para mantenerme acompañado,";
+"a1s2d2-3"="una tan linda como Bella al lado. Voy a ayudar a cuidar a mi hermanita! Papá, ¿podría volver a casa? Annie. Junio de 2013.』";
+"a1s2d3"="Annie debe ser muy triste porque su madre va a estar casada con un nuevo padre.";
+"a1s2d4"="Esta carta fue escrita en junio de este año.";
+"a1s2d5"="Pero el padre de Annie murió el invierno pasado en un accidente de coche.";
+"a1s2d6"="Annie no podía aceptar la verdad y sufren de una profunda tristeza en su corazón.";
+
+//Scene 1-4
+"a1s4d1"="¿Es la escritura a mano de Annie en la partitura?";
+"a1s4d2-1"="La letra dice: \"Mi hermana Bella\" papá sonríe y empuja los columpios para mí y mi hermana ... Quiero volar con mi hermana, volar a la cima del mundo maravilloso ...";
+"a1s4d2-2"="jugamos juntos, jugar juntos con alegría ...";
+"a1s4d3"="¿Podría ser que Annie se va a llevar a Bella a ir a buscar a su padre?";
+"a1s4d4"="¿Tenemos que usar el espejo llamado espíritu de pedir Annie dónde se esconden Bella?";
+
+//Scene 1-5
+"a1s5d1"="En su subconsciente Annie estaba celoso de Kaden por tener una hermana. Esperaba que Kaden sabría cómo se siente al estar solo. Así que ella tomó a Bella en su fiesta de cumpleaños.";
+"a1s5d2"="Si fuera como lo que Annie había dicho, era el señor Johnny quien vio Bella por última vez , debemos ir preguntarle al Sr. Johnny.";
+
+//Act 2
+
+//Scene 2-1
+"a2s1d1"="Esto es falta del cartel del perro del Sr. Johnny desde el año pasado.";
+"a2s1d2-1"="Recuerdo que los niños del barrio siempre les gusta llevar el perro en secreto. Ese momento en particular,";
+"a2s1d2-2"="los niños jugaban por mucho tiempo y no se dio cuenta cuando el perro se había ido y la perdieron.";
+"a2s1d3"="Sr. Johnny estaba muy enojado y no quería hablar con los vecinos.";
+
+//Scene 2-2
+"a2s2d1"="Era pequeña bola rosada de Bella en el armario! Faltaba cuando estábamos jugando en la playa ...";
+"a2s2d2"="¿Por qué el Sr. Johnny esconden pequeña bola de Bella?";
+
+//Scene 2-4
+"a2s4d1"="Es extraño. ¿No es éste el pequeño jardín en la casa de Annie? ¿Por qué habría un guante de trabajo negro?";
+"a2s4d2"="Hay una letra J en el guante. ¿Podría ser este guante de trabajo del Sr. Johnny?";
+"a2s4d3"="Vamos a usar el espejo llamar espíritu para que solicite el Sr. Johnny y obtener la verdad.";
+
+//Scene 2-5
+"a2s5d1"="Sr. Johnny parece fría. Pero querría quitarse los guantes y ayudar poco a Bella cuando la vio caer y llorar.";
+"a2s5d2-1"="¿Quién sabe si lo que decía era cierto o no? Odia a los niños y es hostil a la comunidad.";
+"a2s5d2-2"="Podría ser que él quería secuestrar a pequeña Bella así que se quitó los guantes.";
+"a2s5d3"="¿Dijo que vio a una enfermera? Y la enfermera parecía conocer a Bella?";
+"a2s5d4"="Podría estar hablando de la enfermera Emily?";
+"a2s5d5"="¿No dijiste que viste a la enfermera Emily caminando a la cocina en la casa de Bella y bloqueando la vista a Annie y Bella?";
+"a2s5d6"="¡Eso es! Ella debería haber ser charlando con todo el mundo en la casa de Bella. ¿Por qué estaba aquí?";
+"a2s5d7"="Tenemos que encontrar a la enfermera Emily!";
+
+//Act 3
+
+//Scene 3-2
+"a3s2d1"="¿Por qué hay una correa de bebé aquí?";
+"a3s2d2"="Eso es raro! Esta no es la de Bella. Y no debería ser Annie tampoco.";
+"a3s2d3"="Vamos a ver de nuevo cuidadosamente para ver si hay otras cosas inusuales.";
+
+//Scene 3-3
+"a3s3d1"="Aquí está el celular de Emily.";
+"a3s3d2"="El texto dice: Habíamos roto ya. Por favor, dejar de venir a acosarme. Por favor, dejen de inventar historias sobre un niño de la nuestra.";
+"a3s3d3"="Parece que peleas con su ex-novio.";
+"a3s3d4"="También hay un billete de avión a Los Angeles en el bolso de Emily. Es para esta noche.";
+"a3s3d5"="¿Por qué es Emily volando a Los Angeles esta noche? ¿Va a ver a su novio?";
+"a3s3d6"="Pero ¿por qué iba a venir a la fiesta de Kaden tanta prisa justo antes de su vuelo?";
+
+//Scene 3-4
+"a3s4d1"="Mira! Hay una nota en la chaqueta de Michelle colgado en la pared allí.";
+"a3s4d2"="Dice: 16 años de edad, Sarah, estudiante, madre soltera de 2 meses de edad bebé en adopción enfermera Emily número de teléfono 95499909997....";
+"a3s4d3"="De esta nota se ve que hay una operación secreta entre Emily y Michelle.";
+"a3s4d4"="¿Es esto la venta de un niño?";
+"a3s4d5"="¿O es que alguien que desee comprar un niño?";
+"a3s4d6"="Enfermera Emily debe saber. Hay a su número de teléfono en la nota. Pidámosle a ella con el espíritu llamando espejo.";
+
+//Scene 3-5
+"a3s5d1-1"="Parece que Emily es realmente en el dolor. ";
+"a3s5d1-2"="Ella realmente quiere tener una familia feliz y reunirse con su ex-novio.";
+"a3s5d2"="No se puede forzar el amor. Emily está tan obsesionado que está haciendo daño a sí misma, así como su ex-novio.";
+"a3s5d3"="Si lo que Emily dijo era cierto, que se fue con Pierre, cuando se encontró con él, tenemos que ir a buscar a Pedro, para saber cuál es la verdad.";
+
+//Act 4
+
+//Scene 4-1
+"a4s1d1"="Extraño, ¿por qué hay un carro en esta lista?";
+"a4s1d2"="Tiene el nombre del estudio de Pierre.";
+"a4s1d3"="¿Por qué este carro en esta lista? No sólo se puede transportar mercancías pero los niños también. Los niños pueden incluso dormir dentro.";
+
+//Scene 4-3
+"a4s3d1"="Esta es una pulsera que Bella siempre lleva con ella! ¿Por qué está aquí?";
+"a4s3d2"="Está en la plataforma de observación de la playa. ¿Significa eso que Bella había estado aquí?";
+"a4s3d3"="Creo que el señor Pierre es muy sospechoso, que estaba en la cárcel antes.";
+"a4s3d4"="En la cárcel? ¿Para qué?";
+"a4s3d5"="Me enteré de que estaba en una fiesta en casa de su amigo cuando tenía 16 años, el grupo de jóvenes estaba en drogas y se salió de control cuando se lesionó accidentalmente a alguien.";
+"a4s3d6"="Así que, ¿cómo se inicia su propio estudio de arte de cristal?";
+"a4s3d7"="Se encontró con un fabricante de vidrio maestro cuando él estaba en la cárcel. Así, Pierre comenzó a hacer la creación de arte en vidrio, cuando fue puesto en libertad condicional.";
+"a4s3d8-1"="Si Pedro es alguien que está tan dedicado a la creación artística, debe ser alguien que tiene una mente muy delicada.";
+"a4s3d8-2"="Además, no sería cometer otros crímenes durante la libertad condicional.";
+
+//Scene 4-4
+"a4s4d1"="Los pensamientos de alguien que cometería un crimen a menudo es ilógico.";
+"a4s4d2"="Tenemos que encontrar más pruebas con el fin de hacer que todo sea claro.";
+"a4s4d3"="¡Mira! Es delantal de Bella! ¿Por qué es que en el taller de Pierre?";
+
+//Scene 4-5
+"a4s5d1"="Espero que lo que Pedro dijo era verdad.";
+"a4s5d2"="Si se hubiera demostrado que Emily había dejado la escena, nos tendríamos que preguntar ¿quién más podría ser un sospechoso?";
+"a4s5d3-1"="Este Ryan es un desastre! Pidió prestado carro de Pierre, pero en lugar de volver a Pierre,";
+"a4s5d3-2"="que acaba de salir en la playa. Me pregunto qué otras cosas malas que van ser de hasta!";
+"a4s5d4"="Tendremos que revisar Ryan.";
+
+//Act 5
+
+//Scene 5-1
+"a5s1d1"="¿Por qué hay pistola de aire comprimido de un niño en la sala de juego en la casa de Annie?";
+"a5s1d2"="¿Quién dice que una niña no puede jugar con armas?";
+"a5s1d3"="Hay algunas letras grabadas en el arma.";
+"a5s1d4"="RN ... es el nombre de Ryan! ¿Por qué es su arma en la sala de juego de Annie?";
+"a5s1d5"="Parece que Ryan había estado aquí. Un niño siempre se presta especial atención a la chica que le gusta.";
+
+//Scene 5-3
+"a5s3d1"="¡Mira! Aquí está una zapatilla de Ryan.";
+"a5s3d2"="Una zapatilla? ¿Estaba huyendo en pánico?";
+"a5s3d3"="Mira las decoraciones de aquí, no es como un túnel aterrador común.";
+"a5s3d4"="Parece que Ryan le gusta ir a explorar por todas partes!";
+
+//Scene 5-4
+"a5s4d1"="Aquí está el disco volador de Ryan de nuevo. Parece como si hubiera estado allí también.";
+"a5s4d2"="Este tipo es un elemento perturbador! Lo que no a sus padres a mantener un ojo en él?";
+"a5s4d3"="A veces, un adulto no puede controlar lo que hace un niño!";
+"a5s4d4"="Sin embargo, vamos a pedirle Ryan lo que había hecho realmente?";
+
+//Scene 5-5
+"a5s5d1"="Ya lo ves! Te dije que Ryan es un chico que le gusta explorar y burlarse de las chicas.";
+"a5s5d2"="No hay que subestimar el daño que un niño puede hacerlo! Perro del Sr. Johnny se perdió precisamente por las acciones de los niños traviesos.";
+"a5s5d3-1"="Ryan mencionó tío Robert. Fue en la fiesta de Kaden también.";
+"a5s5d3-2"="Vamos a ver si se hubiera grabado nada durante este periodo de tiempo. Tal vez vamos a encontrar nuevas pistas.";
+
+//Act 6
+
+//Scene 6-1
+"a6s1d1"="Esto es extraño! ¿Acaso la señora Robert no acaba de dar a luz a un cuarto chico? ¿Por qué existe el pañal de un bebé?";
+"a6s1d2"="Esta es sin duda extraño! Y es el mismo tipo que lo lleva Bella.";
+"a6s1d3"="Todas las imágenes en el coche de fotografia son los niños pequeños.";
+"a6s1d4"="Tal vez es un poco pedófilo?";
+
+//Scene 6-2
+"a6s2d1"="¿Por qué hay juguete sonajero de un bebé en una bolsa de cámara de Robert?";
+"a6s2d2"="Tal vez sea un apoyo para hacer reír a los bebés durante la sesión de fotos.";
+
+//Scene 6-4
+"a6s4d1"="Esta es la cámara de Robert.";
+"a6s4d2"="Vamos a ver qué fotos había tomada.";
+"a6s4d3"="Oh no! Hay todas las imágenes de Bella! Robert está mirando a Bella!";
+"a6s4d4-1"="Vamos a tratar de no hacer un gran alboroto primero! Bella es tan linda, que sin duda llama la atención de un fotógrafo ...";
+"a6s4d4-2"="Sin embargo, la cámara entera llena de imágenes de Bella, y es en la fiesta de cumpleaños de Kaden. Esto suena un poco extraño!";
+"a6s4d5"="Debe ser un pedofilia extrema ... Eso es terrible! Quizás juguete sonajero de que el bebé se utiliza para atraer a Bella!";
+
+//Scene 6-5
+"a6s5d1"="Tomar fotos es un proceso de creación, así como una mentalidad compensatoria, tratando de conservar los recuerdos.";
+"a6s5d2"="En realidad, las niñas son tan buenas como los niños, ¿por qué deberíamos desear un género en particular tanto?";
+"a6s5d3"="Eso es exactamente lo que la gente dice, \"Lo que usted no tiene, usted quiere.\" Tomar fotos es también una manera de poseer, o debería decir ... otra forma de ser dueño.";
+"a6s5d4"="¿Acaso Robert dice que la última vez que vio a Michelle y Emily habla de algunos de los secretos?";
+"a6s5d5"="Parece que Michelle es la última persona para nosotros para investigar!";
+
+//Act 7
+
+//Scene 7-1
+"a7s1d1"="¿Por qué es el chupete de Bella en el bolso de Michelle?";
+"a7s1d2"="No me acuerdo de esto como el chupete de Bella. Tal vez es sólo un chupete normal en vez de la de Bella?";
+"a7s1d3"="¿Está seguro? Usted tiene que pensar cuidadosamente, no cometer un error!";
+"a7s1d4"="Todo tiene un aspecto bastante parecido ... Bella tiene muchos chupetes, no puedo estar seguro de si se trata de Bella.";
+
+//Scene 7-2
+"a7s2d1"="¿Por qué habría tantas fotos de bebé? Se dispone de manera cómoda! Bella sin duda les encanta jugar aquí!";
+"a7s2d2"="Hey, no olvides que aún estamos haciendo nuestra investigación!";
+"a7s2d3"="¡Lo sé! ¡Lo sé! ¡Mira! Aquí hay una foto de Bella tomada en el hospital cuando se le acaba de nacer!";
+"a7s2d4"="Extraño! ¿Cómo Michelle obtener esta foto?";
+"a7s2d5"="¿Acaso no sólo encontramos que la Sra. Michelle parecía haber hecho algo en secreto por Emily en el hospital?";
+"a7s2d6"="La Sra. Emily era la enfermera en el hospital cuando Bella había nacido!";
+"a7s2d7"="Así, Bella es el bebé que la Sra. Michelle quiere adoptar?";
+
+//Scene 7-4
+"a7s4d1"="¡Mira! Se trata de un reconocimiento de deuda de un gran préstamo de Michelle a Pierre.";
+"a7s4d2"="¿Qué fue lo que dije! ¿Cómo podría Pierre tener todo el dinero para iniciar un negocio justo después de que salió de la cárcel?";
+"a7s4d3-1"="Tiene que haber una razón por la cual Michelle estaba dispuesto a préstamo Pierre el dinero.";
+"a7s4d3-2"="También se dice en la contraportada de este pagaré que un tesoro creativo del mundo puede ser utilizado como el pago.";
+"a7s4d4"="Mundial tesoro? Arte creativo? Tenía tanta confianza en él!";
+"a7s4d5"="Creo que Michelle quería decir algo más.";
+"a7s4d6"="Un tesoro del mundo ... un vivero de verdad ... te refieres a lo que se refería a que el mundo del tesoro era un bebé!";
+
+//Scene 7-5
+"a7s5d1"="Es cierto que es injusto que un pedazo de papel debe determinar el futuro de alguien!";
+"a7s5d2"="Hey, estamos buscando a los sospechosos. No ser demasiado simpático!";
+"a7s5d3"="Parece que uno de estos siete habían ocultado la verdad.";
+"a7s5d4"="Vamos a repartir dichas pistas y tratar de encontrar a Bella rápido!";
+
+//Ending
+"a8s1d1"="Finalmente encontró Bella, Bella duerme tranquilo en el asiento de seguridad.";
+"a8s2d1"="Una vez resuelto el misterio, Bella se frota los ojos y da una sonrisa brillante. Como si nada hubiera pasado nunca. Nosotros continuamos celebrando Kaiden feliz cumpleaños!";

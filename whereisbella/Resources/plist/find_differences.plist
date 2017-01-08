@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>k-1-3</key>
+	<array>
+		<dict>
+			<key>kTag</key>
+			<string>1</string>
+			<key>kImageName</key>
+			<string>obj_1_3_01</string>
+			<key>kCenterPosition</key>
+			<string>{103, 249}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>2</string>
+			<key>kImageName</key>
+			<string>obj_1_3_02</string>
+			<key>kCenterPosition</key>
+			<string>{88, 101}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>3</string>
+			<key>kImageName</key>
+			<string>obj_1_3_03</string>
+			<key>kCenterPosition</key>
+			<string>{48, 212}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>4</string>
+			<key>kImageName</key>
+			<string>obj_1_3_04</string>
+			<key>kCenterPosition</key>
+			<string>{213, 41}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>5</string>
+			<key>kImageName</key>
+			<string>obj_1_3_05</string>
+			<key>kCenterPosition</key>
+			<string>{149, 122}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>6</string>
+			<key>kImageName</key>
+			<string>obj_1_3_06</string>
+			<key>kCenterPosition</key>
+			<string>{201, 160}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>7</string>
+			<key>kImageName</key>
+			<string>obj_1_3_07</string>
+			<key>kCenterPosition</key>
+			<string>{150, 28}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>8</string>
+			<key>kImageName</key>
+			<string>obj_1_3_08</string>
+			<key>kCenterPosition</key>
+			<string>{36, 89}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>9</string>
+			<key>kImageName</key>
+			<string>obj_1_3_09</string>
+			<key>kCenterPosition</key>
+			<string>{95, 210}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>10</string>
+			<key>kImageName</key>
+			<string>obj_1_3_10</string>
+			<key>kCenterPosition</key>
+			<string>{180, 214}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>11</string>
+			<key>kImageName</key>
+			<string>obj_1_3_11</string>
+			<key>kCenterPosition</key>
+			<string>{220, 84}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>12</string>
+			<key>kImageName</key>
+			<string>obj_1_3_12</string>
+			<key>kCenterPosition</key>
+			<string>{91, 42}</string>
+		</dict>
+	</array>
+	<key>k-2-3</key>
+	<array>
+		<dict>
+			<key>kTag</key>
+			<string>1</string>
+			<key>kImageName</key>
+			<string>obj_2_3_01</string>
+			<key>kCenterPosition</key>
+			<string>{43, 230}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>2</string>
+			<key>kImageName</key>
+			<string>obj_2_3_02</string>
+			<key>kCenterPosition</key>
+			<string>{163, 221}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>3</string>
+			<key>kImageName</key>
+			<string>obj_2_3_03</string>
+			<key>kCenterPosition</key>
+			<string>{38, 70}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>4</string>
+			<key>kImageName</key>
+			<string>obj_2_3_04</string>
+			<key>kCenterPosition</key>
+			<string>{161, 120}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>5</string>
+			<key>kImageName</key>
+			<string>obj_2_3_05</string>
+			<key>kCenterPosition</key>
+			<string>{17, 152}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>6</string>
+			<key>kImageName</key>
+			<string>obj_2_3_06</string>
+			<key>kCenterPosition</key>
+			<string>{155, 159}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>7</string>
+			<key>kImageName</key>
+			<string>obj_2_3_07</string>
+			<key>kCenterPosition</key>
+			<string>{49, 195}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>8</string>
+			<key>kImageName</key>
+			<string>obj_2_3_08</string>
+			<key>kCenterPosition</key>
+			<string>{196, 154}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>9</string>
+			<key>kImageName</key>
+			<string>obj_2_3_09</string>
+			<key>kCenterPosition</key>
+			<string>{59, 256}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>10</string>
+			<key>kImageName</key>
+			<string>obj_2_3_10</string>
+			<key>kCenterPosition</key>
+			<string>{187, 77}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>11</string>
+			<key>kImageName</key>
+			<string>obj_2_3_11</string>
+			<key>kCenterPosition</key>
+			<string>{168, 23}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>12</string>
+			<key>kImageName</key>
+			<string>obj_2_3_12</string>
+			<key>kCenterPosition</key>
+			<string>{96, 107}</string>
+		</dict>
+	</array>
+	<key>k-3-1</key>
+	<array>
+		<dict>
+			<key>kTag</key>
+			<string>1</string>
+			<key>kImageName</key>
+			<string>obj_3_1_01</string>
+			<key>kCenterPosition</key>
+			<string>{92, 29}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>2</string>
+			<key>kImageName</key>
+			<string>obj_3_1_02</string>
+			<key>kCenterPosition</key>
+			<string>{193, 53}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>3</string>
+			<key>kImageName</key>
+			<string>obj_3_1_03</string>
+			<key>kCenterPosition</key>
+			<string>{154, 110}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>4</string>
+			<key>kImageName</key>
+			<string>obj_3_1_04</string>
+			<key>kCenterPosition</key>
+			<string>{40, 19}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>5</string>
+			<key>kImageName</key>
+			<string>obj_3_1_05</string>
+			<key>kCenterPosition</key>
+			<string>{191, 178}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>6</string>
+			<key>kImageName</key>
+			<string>obj_3_1_06</string>
+			<key>kCenterPosition</key>
+			<string>{26, 118}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>7</string>
+			<key>kImageName</key>
+			<string>obj_3_1_07</string>
+			<key>kCenterPosition</key>
+			<string>{85, 164}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>8</string>
+			<key>kImageName</key>
+			<string>obj_3_1_08</string>
+			<key>kCenterPosition</key>
+			<string>{216, 151}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>9</string>
+			<key>kImageName</key>
+			<string>obj_3_1_09</string>
+			<key>kCenterPosition</key>
+			<string>{103, 241}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>10</string>
+			<key>kImageName</key>
+			<string>obj_3_1_10</string>
+			<key>kCenterPosition</key>
+			<string>{168, 80}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>11</string>
+			<key>kImageName</key>
+			<string>obj_3_1_11</string>
+			<key>kCenterPosition</key>
+			<string>{142, 258}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>12</string>
+			<key>kImageName</key>
+			<string>obj_3_1_12</string>
+			<key>kCenterPosition</key>
+			<string>{106, 114}</string>
+		</dict>
+	</array>
+	<key>k-4-2</key>
+	<array>
+		<dict>
+			<key>kTag</key>
+			<string>1</string>
+			<key>kImageName</key>
+			<string>obj_4_2_01</string>
+			<key>kCenterPosition</key>
+			<string>{80, 140}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>2</string>
+			<key>kImageName</key>
+			<string>obj_4_2_02</string>
+			<key>kCenterPosition</key>
+			<string>{21, 159}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>3</string>
+			<key>kImageName</key>
+			<string>obj_4_2_03</string>
+			<key>kCenterPosition</key>
+			<string>{132, 104}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>4</string>
+			<key>kImageName</key>
+			<string>obj_4_2_04</string>
+			<key>kCenterPosition</key>
+			<string>{184, 88}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>5</string>
+			<key>kImageName</key>
+			<string>obj_4_2_05</string>
+			<key>kCenterPosition</key>
+			<string>{56, 251}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>6</string>
+			<key>kImageName</key>
+			<string>obj_4_2_06</string>
+			<key>kCenterPosition</key>
+			<string>{147, 49}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>7</string>
+			<key>kImageName</key>
+			<string>obj_4_2_07</string>
+			<key>kCenterPosition</key>
+			<string>{64, 28}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>8</string>
+			<key>kImageName</key>
+			<string>obj_4_2_08</string>
+			<key>kCenterPosition</key>
+			<string>{33, 95}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>9</string>
+			<key>kImageName</key>
+			<string>obj_4_2_09</string>
+			<key>kCenterPosition</key>
+			<string>{198, 50}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>10</string>
+			<key>kImageName</key>
+			<string>obj_4_2_10</string>
+			<key>kCenterPosition</key>
+			<string>{158, 157}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>11</string>
+			<key>kImageName</key>
+			<string>obj_4_2_11</string>
+			<key>kCenterPosition</key>
+			<string>{204, 182}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>12</string>
+			<key>kImageName</key>
+			<string>obj_4_2_12</string>
+			<key>kCenterPosition</key>
+			<string>{136, 198}</string>
+		</dict>
+	</array>
+	<key>k-5-2</key>
+	<array>
+		<dict>
+			<key>kTag</key>
+			<string>1</string>
+			<key>kImageName</key>
+			<string>obj_5_2_01</string>
+			<key>kCenterPosition</key>
+			<string>{23, 268}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>2</string>
+			<key>kImageName</key>
+			<string>obj_5_2_02</string>
+			<key>kCenterPosition</key>
+			<string>{27, 73}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>3</string>
+			<key>kImageName</key>
+			<string>obj_5_2_03</string>
+			<key>kCenterPosition</key>
+			<string>{95, 207}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>4</string>
+			<key>kImageName</key>
+			<string>obj_5_2_04</string>
+			<key>kCenterPosition</key>
+			<string>{24, 214}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>5</string>
+			<key>kImageName</key>
+			<string>obj_5_2_05</string>
+			<key>kCenterPosition</key>
+			<string>{216, 47}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>6</string>
+			<key>kImageName</key>
+			<string>obj_5_2_06</string>
+			<key>kCenterPosition</key>
+			<string>{47, 140}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>7</string>
+			<key>kImageName</key>
+			<string>obj_5_2_07</string>
+			<key>kCenterPosition</key>
+			<string>{189, 198}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>8</string>
+			<key>kImageName</key>
+			<string>obj_5_2_08</string>
+			<key>kCenterPosition</key>
+			<string>{110, 30}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>9</string>
+			<key>kImageName</key>
+			<string>obj_5_2_09</string>
+			<key>kCenterPosition</key>
+			<string>{190, 109}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>10</string>
+			<key>kImageName</key>
+			<string>obj_5_2_10</string>
+			<key>kCenterPosition</key>
+			<string>{115, 74}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>11</string>
+			<key>kImageName</key>
+			<string>obj_5_2_11</string>
+			<key>kCenterPosition</key>
+			<string>{191, 263}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>12</string>
+			<key>kImageName</key>
+			<string>obj_5_2_12</string>
+			<key>kCenterPosition</key>
+			<string>{188, 136}</string>
+		</dict>
+	</array>
+	<key>k-6-3</key>
+	<array>
+		<dict>
+			<key>kTag</key>
+			<string>1</string>
+			<key>kImageName</key>
+			<string>obj_6_3_01</string>
+			<key>kCenterPosition</key>
+			<string>{228, 108}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>2</string>
+			<key>kImageName</key>
+			<string>obj_6_3_02</string>
+			<key>kCenterPosition</key>
+			<string>{181, 167}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>3</string>
+			<key>kImageName</key>
+			<string>obj_6_3_03</string>
+			<key>kCenterPosition</key>
+			<string>{47, 132}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>4</string>
+			<key>kImageName</key>
+			<string>obj_6_3_04</string>
+			<key>kCenterPosition</key>
+			<string>{70, 98}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>5</string>
+			<key>kImageName</key>
+			<string>obj_6_3_05</string>
+			<key>kCenterPosition</key>
+			<string>{72, 21}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>6</string>
+			<key>kImageName</key>
+			<string>obj_6_3_06</string>
+			<key>kCenterPosition</key>
+			<string>{208, 184}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>7</string>
+			<key>kImageName</key>
+			<string>obj_6_3_07</string>
+			<key>kCenterPosition</key>
+			<string>{131, 65}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>8</string>
+			<key>kImageName</key>
+			<string>obj_6_3_08</string>
+			<key>kCenterPosition</key>
+			<string>{61, 262}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>9</string>
+			<key>kImageName</key>
+			<string>obj_6_3_09</string>
+			<key>kCenterPosition</key>
+			<string>{101, 129}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>10</string>
+			<key>kImageName</key>
+			<string>obj_6_3_10</string>
+			<key>kCenterPosition</key>
+			<string>{140, 237}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>11</string>
+			<key>kImageName</key>
+			<string>obj_6_3_11</string>
+			<key>kCenterPosition</key>
+			<string>{199, 138}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>12</string>
+			<key>kImageName</key>
+			<string>obj_6_3_12</string>
+			<key>kCenterPosition</key>
+			<string>{118, 168}</string>
+		</dict>
+	</array>
+	<key>k-7-3</key>
+	<array>
+		<dict>
+			<key>kTag</key>
+			<string>1</string>
+			<key>kImageName</key>
+			<string>obj_7_3_01</string>
+			<key>kCenterPosition</key>
+			<string>{55, 244}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>2</string>
+			<key>kImageName</key>
+			<string>obj_7_3_02</string>
+			<key>kCenterPosition</key>
+			<string>{123, 174}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>3</string>
+			<key>kImageName</key>
+			<string>obj_7_3_03</string>
+			<key>kCenterPosition</key>
+			<string>{196, 165}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>4</string>
+			<key>kImageName</key>
+			<string>obj_7_3_04</string>
+			<key>kCenterPosition</key>
+			<string>{53, 200}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>5</string>
+			<key>kImageName</key>
+			<string>obj_7_3_05</string>
+			<key>kCenterPosition</key>
+			<string>{196, 75}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>6</string>
+			<key>kImageName</key>
+			<string>obj_7_3_06</string>
+			<key>kCenterPosition</key>
+			<string>{150, 27}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>7</string>
+			<key>kImageName</key>
+			<string>obj_7_3_07</string>
+			<key>kCenterPosition</key>
+			<string>{52, 150}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>8</string>
+			<key>kImageName</key>
+			<string>obj_7_3_08</string>
+			<key>kCenterPosition</key>
+			<string>{145, 142}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>9</string>
+			<key>kImageName</key>
+			<string>obj_7_3_09</string>
+			<key>kCenterPosition</key>
+			<string>{144, 234}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>10</string>
+			<key>kImageName</key>
+			<string>obj_7_3_10</string>
+			<key>kCenterPosition</key>
+			<string>{91, 167}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>11</string>
+			<key>kImageName</key>
+			<string>obj_7_3_11</string>
+			<key>kCenterPosition</key>
+			<string>{127, 206}</string>
+		</dict>
+		<dict>
+			<key>kTag</key>
+			<string>12</string>
+			<key>kImageName</key>
+			<string>obj_7_3_12</string>
+			<key>kCenterPosition</key>
+			<string>{30, 46}</string>
+		</dict>
+	</array>
+</dict>
+</plist>

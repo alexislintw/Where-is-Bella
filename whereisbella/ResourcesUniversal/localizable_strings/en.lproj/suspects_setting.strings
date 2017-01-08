@@ -1,0 +1,121 @@
+/* 
+  game_setting.strings
+  bella
+
+  Created by Alexis Lin on 13/7/26.
+
+*/
+
+//人物名稱
+"s1n1"="Annie";
+"s2n1"="Johnny";
+"s3n1"="Emily";
+"s4n1"="Pierre";
+"s5n1"="Ryan";
+"s6n1"="Rob";
+"s7n1"="Michelle";
+
+//人物檔案
+"s1p1"="A seven-year-old girl, Bella's neighbor, who lives with her mother without any brothers or sisters. She always wanted to have a sister as a company and often invites Bella and Kaden to come over to play. \n\nShe has been hoping that her parents can come back together and have a little sister to keep her accompanied. But her mother is going to be married to a new father soon, so her hope was shattered and she can only sadly play by herself alone.";
+
+"s2p1"="A 54-year-old white man who is obsessed with cleanliness and lives alone by himself next door to Bella. He does not like the noises of laughter from the tourists at the beach, nor the crying and shouts from the kids. \n\nWhen there's a party, he doesn't like people parking in front of his house and always complains about it.";
+
+"s3p1"="28-year-old white female. She was the nurse who was taking care of Bella at the hospital when she was just born. Her boyfriend who was 4 years younger than her and works in New York broke up with her because he did no want to get married so soon. \n\nEmily lied to him telling him that she was pregnant and had given birth to his child. So, when Bella was born, she really hoped that Bella was her own child...";
+
+"s4p1"="27-year-old handsome young man who surfs everyday and earns a living by making glass art. He was incarcerated at age 16 because he accidentally injured someone at a party. \n\nHe met a master glass maker while in prison. After he was released, he started making glass art and experiencing the life of heat and sweat in the glass studio by the beach.";
+
+"s5p1"="Ryan is Kaden's classmate whose father was often on overseas business trips. Ryan's mother is always busy between the kitchen and the counter at her own bar while Ryan watches DVD at a corner in the kitchen. \n\nWhen his father was home, Ryan often hears the loud quarrel between his parents about how to run the bar.";
+
+"s6p1"="Robert is an amateur photographer who owns an import-export company but does not have the desire to run it. He is passionate about taking pictures and love to collect all kinds of antique cameras. So, he does his amateur job very professionally and owns a lot of professional grade equipment, and often is at the beach taking wedding pictures during the holidays. \n\nHe has three sons and his wife just gave birth to their fourth boy. He was disappointed about it because he always wanted to have a daughter.";
+
+"s7p1"="Michelle lives next door to Bella, and was the previous owner of Bella's house who just sold this beautiful beach villa to Bella's parents last year. But she never told Bella's parents that there is a secret passageway between the two houses that connects them. \n\nMichelle loves children. She got married and had children when she was very young. She is 40 years old this year. Her husband passed away two years ago. Her two children had also gone to colleges in other states. Because she did not need both houses so she sold one of them. \n\nShe wants to adopt a child, but her records of mental illness in the past affected her application for adoption.";
+
+//犯罪動機
+"s1m1"="Hope to hide Bella and make Bella her own sister.";
+"s1m2"="Want to hide Bella to attract her parents' attention.";
+
+"s2m1"="Had the experience of losing his dog only to find out later that it was taken out to play by the neighborhood kids without him knowing it.";
+"s2m2"="Enjoy quietness, and hate it when the neighbors have parties.";
+
+"s3m1"="Treat Bella as her and her ex-boyfriend's child.";
+"s3m2"="Hope to get her boyfriend back by Bella.";
+
+"s4m1"="Have criminal records.";
+"s4m2"="Short of money, could have received money from Emily.";
+
+"s5m1"="Fought with Kaden to spoil his party.";
+"s5m2"="Want to poke fun at Bella.";
+
+"s6m1"="Have pedophile tendencies.";
+"s6m2"="Want to treat Bella as his own little girl.";
+
+"s7m1"="Have records of mental illness. Cannot control her own actions when the symptoms occur.";
+"s7m2"="Like kids. Want to lock up Bella and make Bella her own child.";
+
+//證據
+"s1e1"="Bella's old shoes was found in Annie's playroom.";
+"s1e2"="Annie wrote to her father's letter.";
+"s1e3"="A sheet music named \"My sister Bella\" wrote by Annie.";
+
+"s2e1"="A dog missing poster.";
+"s2e2"="Bella's little pink ball was found in the closet";
+"s2e3"="Mr. Johnny's working gloves was found in Annie's garden.";
+
+"s3e1"="A baby strap was found.";
+"s3e2"="Emilly's cell phone message and her airline ticket was found.";
+"s3e3"="A note about adaption baby that wrote from Emily to Michelle.";
+
+"s4e1"="Pierre's trolley was found.";
+"s4e2"="Bella's bracelet was found.";
+"s4e3"="Bella's pinafore was found.";
+
+"s5e1"="Ryan's BB gun was found in Annie's playroom.";
+"s5e2"="Ryan's slipper was found in Michelle's soutertain.";
+"s5e3"="Ryan's frisbee was found in Johnny's garage.";
+
+"s6e1"="A baby girl's diaper was found.";
+"s6e2"="A baby's rattle toy was found in Robert's camera bag.";
+"s6e3"="There are all pictures of Bella in Robert's camera.";
+
+"s7e1"="Bella's pacifier was found in Michell's handbag.";
+"s7e2"="Bella's new born photo was found.";
+"s7e3"="An IOU from Michelle to Pierre was found.";
+
+//證詞
+"s1t1"="Today is Kaden's birthday. I was bored so I took Bella home. We played piano together in the piano room, and went out to play hide-and-seek in the garden.";
+"s1t2"="In the garden we saw Mr. Johnny staring at us so we screamed and ran away to hide. And I had not seen little Bella after that.";
+"s1t3"="I did not hide Bella. I ran away to hide from Mr. Johnny. Maybe Mr. Johnny took Bella...";
+
+"s2t1"="Isn't raising a dog like raising a kid? Who should be in responsible when the dog is missing? What could happen when a child gets lost?";
+"s2t2"="That little pink ball with Bella's name on it was brought back by my dog from the beach. It has been here since.";
+"s2t3"="Why would I kidnap a noisy kid? I am not going to get myself in that kind of trouble.";
+"s2t4"="That little girl was running and crying when she fell. I took off my gardening gloves for not wanting to make her dirty.";
+"s2t5"="When I was just about to pull her up, someone who looked like a nurse working in a hospital came over towards the little girl, so I turned around and left.";
+
+"s3t1"="I came to give Kaden his birthday gift. I wish that their whole family is happy.";
+"s3t2"="The ticket is because I want to surprise my ex-boyfriend. I believe he still is in love with me.";
+"s3t3"="The note is because Michelle mentioned to me before that she wanted to adopt a kid. I saw Bella in the living room so I took Bella to the beach to play.";
+"s3t4"="We ran into Pierre coming back to his studio after surfing. Pierre told me that he had finished making the glass surfing ornament that I had asked him to make for my boyfriend,";
+"s3t5"="just then Bella wanted to get down and to go look for Annie, so I put Bella down and went with Pierre to his studio.";
+
+"s4t1"="Even though I committed a crime before, it does not mean that I will keep committing other crimes. Why look at me so differently?";
+"s4t2"="I had done something that hurt the community, but I am making it up now by giving my time back to the community.";
+"s4t3"="I don't know why Bella's pinafore would be in my studio, perhaps Emily brought it here when she came to see me.";
+"s4t4"="The little boy Ryan borrowed my studio's trolley from me. But I don't know what he was going to use it for.";
+
+"s5t1"="I like to play with Annie and Bella. Their long hair look lovely and I'd like to pull it. But if they cry and shout and don't behave themselves, I will act like a cop and arrest the bad kids.";
+"s5t2"="I like to explore and play hide and seek. Once I was trying to hide from Mr. Johnny's dog when I accidentally found the entrance to the tunnel to aunt Michelle's house.";
+"s5t3"="I saw Emily, Pierre, and Bella on the beach from the viewing platform so I followed them down to the beach.";
+"s5t4"="The person whom I dislike the most is the photographer uncle Robert because he kept taking pictures of Bella from Kaden's birthday party in the house to the outside, and all the way to the beach. ";
+"s5t5"="He's like a fly... you just can't drive it off!";
+
+"s6t1"="We were hoping that our fourth child would be a girl so we had bought all the items for a baby girl during my wife's pregnancy wishing that our hope would come true. But still, it went against our wish.";
+"s6t2"="That baby girl's diaper was actually for my boy. The baby's rattle toy was a prop when I am taking pictures of babies. I will take pictures of baby boys as well as baby girls.";
+"s6t3"="The reason why I only took Bella's pictures was because I felt that it was the purest image.";
+"s6t4"="When I was taking the last photo, I saw Michelle and Emily. They seemed to be talking about some secrets.";
+
+"s7t1"="From afar at Bella's home, I saw Emily walking back to Annie's garden with Bella. So I walked over to Annie's garden as well.";
+"s7t2"="But I only saw Emily there so we just said Hi to each other. Because she is a nurse, so she cares about my health condition very much.";
+"s7t3"="Though I have records of mental illness in the past, I still have the ability to care for a baby. So I arranged this place to be like a nursery in heaven. This nursery is close to the ocean and ocean is just like a mother's womb.";
+"s7t4"="I wish that the baby that I adopt could grow up in an environment like being surrounded by a mother's warm womb, safe and sweet.";
+"s7t5"="As for Pierre, he is really such a fine young man! I thought I could loan him money to help him get a fresh start! His having a criminal record is just like my having records of mental illness, they don't mean that we are bad people!";

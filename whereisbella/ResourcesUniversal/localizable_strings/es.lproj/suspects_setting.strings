@@ -1,0 +1,116 @@
+/* 
+  game_setting.strings
+  bella
+
+  Created by Alexis Lin on 13/7/26.
+
+*/
+
+//人物名稱
+"s1n1"="Annie";
+"s2n1"="Johnny";
+"s3n1"="Emily";
+"s4n1"="Pierre";
+"s5n1"="Ryan";
+"s6n1"="Rob";
+"s7n1"="Michelle";
+
+//人物檔案
+"s1p1"="Una niña de siete años de edad, vecino de Bella, que vive con su madre, sin hermanos o hermanas. Siempre quise tener una hermana como una compañía y, a menudo invita a Bella y Kaden para venir a jugar. \n\nElla ha estado esperando que sus padres pueden volver a estar juntos y tener una hermana pequeña para acompañarla. Pero su madre va a estar casada con un nuevo padre en breve, por lo que su esperanza se hizo añicos y se puede jugar sólo con tristeza por ella sola.";
+
+"s2p1"="Un hombre blanco de 54 años de edad, quien está obsesionado con la limpieza y vive para sí solo lado de Bella. No le gustan los ruidos de risas de los turistas en la playa, ni el llanto y los gritos de los niños. \n\nCuando hay una fiesta, que no le gusta la gente de aparcamiento en frente de su casa y siempre se queja.";
+
+"s3p1"="28-años de edad, mujer blanca. Ella era la enfermera que cuidaba de Bella en el hospital cuando ella acababa de nacer. Su novio, que tenía 4 años más joven que ella y trabaja en Nueva York rompió con ella porque él no quiere casarse tan pronto. \n\nEmily le mintió diciéndole que estaba embarazada y dio a luz a su hijo. Así que, cuando Bella nació, ella realmente esperaba que Bella era su propio hijo ...";
+
+"s4p1"="27-años de edad, hombre joven y guapo que navega todos los días y se gana la vida haciendo arte en vidrio. Fue encarcelado a los 16 años debido a que se lesionó accidentalmente a alguien en una fiesta. \n\nSe encontró con un fabricante de vidrio maestro en la cárcel. Después de ser liberado, comenzó a hacer arte de cristal y experimentar la vida de calor y sudor en el estudio de cristal en la playa.";
+
+"s5p1"="Ryan es compañero de clase de Kaden cuyo padre era a menudo en viajes de negocios en el extranjero. La madre de Ryan está siempre ocupado entre la cocina y la encimera en su propio bar, mientras que Ryan mira DVD en una esquina de la cocina. \n\nCuando su padre estaba en casa, Ryan menudo oye la disputa acalorada entre sus padres acerca de cómo ejecutar el bar.";
+
+"s6p1"="Robert es un fotógrafo aficionado que es propietaria de una empresa de importación-exportación, pero no tiene el deseo de ejecutarlo. Él es un apasionado de la toma de fotografías y el amor para recoger todo tipo de cámaras antiguas. Por lo tanto, él hace su trabajo de aficionados muy profesionalmente y posee una gran cantidad de equipos de calidad profesional, y con frecuencia se encuentra en la playa, tomar fotos de la boda durante las fiestas. \n\nTiene tres hijos y su esposa acaba de dar a luz a su cuarto hijo. Estaba decepcionado de él porque él siempre quiso tener una hija.";
+
+"s7p1"="Michelle vive al lado de Bella, y era el anterior propietario de la casa de Bella, que acaba de vender esta hermosa villa de la playa a los padres de Bella año pasado. Pero ella nunca le dijo a los padres de Bella que hay un pasadizo secreto entre las dos casas que los conecta. \n\nMichelle ama a los niños. Se casó y tuvo hijos cuando era muy joven. Tiene 40 años de edad este año. Su marido falleció hace dos años. Sus dos hijos también habían ido a las universidades en otros estados. Debido a que ella no necesitaba las dos cámaras por lo que vendió uno de ellos. \n\nElla quiere adoptar a un niño, pero su historial de enfermedad mental en el pasado afectó a su solicitud de adopción.";
+
+//犯罪動機
+"s1m1"="La esperanza de ocultar Bella y hacer que Bella a su propia hermana.";
+"s1m2"="Desea ocultar Bella para atraer la atención de sus padres.";
+	
+"s2m1"="Tenía la experiencia de perder a su perro sólo para descubrir más tarde que fue sacado a jugar con los niños del barrio, sin que él lo supiera.";
+"s2m2"="Disfrute de la tranquilidad, y odio cuando los vecinos tienen partes.";
+
+"s3m1"="Tratar Bella como su ex-novio hija.";
+"s3m2"="La esperanza de obtener su novio de vuelta por Bella.";
+
+"s4m1"="Tener antecedentes penales.";
+"s4m2"="Corto de dinero, podría haber recibido dinero de Emily.";
+
+"s5m1"="Luchó con Kaden echar a perder su partido.";
+"s5m2"="Quiere burlarse de Bella.";
+
+"s6m1"="Tener tendencias pedófilas.";
+"s6m2"="Quieres tratar Bella como su propia hija.";
+
+"s7m1"="Contar con registros de enfermedades mentales. No puede controlar sus propias acciones cuando se producen los síntomas.";
+"s7m2"="Al igual que los niños.Quieres bloquear Bella y hacer que Bella a su propia hija.";
+
+//證據
+"s1e1"="Zapatos viejos de Bella se encontró en sala de juegos de Annie.";
+"s1e2"="Annie escribió la carta de su padre.";
+"s1e3"="Una partitura llamado \"Mi hermana Bella\", escribió por Annie.";
+"s2e1"="Un perro perdido cartel.";
+"s2e2"="Pequeña bola rosada de Bella se encontró en el armario";
+"s2e3"="Guantes de trabajo del Sr. Johnny se encontró en el jardín de Annie.";
+"s3e1"="Se encontró una correa de bebé.";
+"s3e2"="Se encontró mensaje de teléfono celular de Emilly y su billete de avión.";
+"s3e3"="Una nota sobre el bebé adaptación que escribió desde Emily a Michelle.";
+"s4e1"="Se encontró carro de Pierre.";
+"s4e2"="Se encontró el brazalete de Bella.";
+"s4e3"="Se encontró delantal de Bella.";
+"s5e1"="BB pistola de Ryan fue encontrado en sala de juegos de Annie.";
+"s5e2"="Zapatilla de Ryan fue encontrado en soutertain de Michelle.";
+"s5e3"="Disco volador de Ryan fue encontrado en el garaje de Johnny.";
+"s6e1"="Se encontró el pañal de un bebé.";
+"s6e2"="Juguete sonajero de un bebé fue encontrado en el bolso de la cámara de Robert.";
+"s6e3"="Hay todas las imágenes de Bella en la cámara de Robert.";
+"s7e1"="El chupete de Bella se encontró en el bolso de Michell.";
+"s7e2"="Se encontró nueva foto nacida de Bella.";
+"s7e3"="Se ha encontrado un IOU de Michelle a Pierre.";
+
+//證詞
+"s1t1"="Hoy es el cumpleaños de Kaden. Me aburría, así que tomé Bella para casa. Jugamos el piano juntos en la sala de piano, y salimos a jugar al escondite y buscar en el jardín.";
+"s1t2"="En el jardín que vimos al Sr. Johnny mirando a nosotros, así que gritó y corrió a esconderse. Y yo no había visto poco después de que Bella.";
+"s1t3"="No escondí Bella. Me escapé de ocultar el Sr. Johnny. Tal vez el Sr. Johnny tomó Bella ...";
+  
+"s2t1"="¿No es la crianza de un perro como criar a un niño? Quién debería estar a cargo cuando el perro le falta? ¿Qué puede suceder cuando un niño se pierde?";
+"s2t2"="Esa pequeña bola de color rosa con el nombre de Bella en él fue traído de vuelta a mi perro de la playa. Ha estado aquí desde entonces.";
+"s2t3"="¿Por qué iba yo a secuestrar a un niño ruidoso? Yo no voy a meterme en ese tipo de problemas.";
+"s2t4"="Esa niña estaba corriendo y llorando cuando ella se cayó. Me quité los guantes de jardinería para no querer hacer su sucio. Cuando estaba a punto de tirar de ella,";
+"s2t5"="alguien que se parecía a una enfermera que trabaja en un hospital se acercó a la niña, así que me di la vuelta y me fui.";
+    
+"s3t1"="Vine a darle Kaden su regalo de cumpleaños. Me gustaría que toda la familia está feliz.";
+"s3t2"="El billete es porque quiero sorprender a mi ex-novio. Creo que todavía está enamorado de mí.";
+"s3t3"="La nota se debe a que Michelle me mencionó antes que quería adoptar un niño. vi a Bella en la sala de estar, así que tomé a Bella a la playa a jugar.";
+"s3t4"="Nos encontramos con Pierre volver a su estudio después de navegar. Pierre me dijo que había terminado de hacer el cristal surf adorno que yo le había pedido que hiciera para mi novio,";
+"s3t5"="en ese momento Bella quería bajar y para ir a buscar a Annie, así que me puse a Bella y me fui con Pierre a su estudio.";
+    
+"s4t1"="A pesar de que he cometido un delito antes, esto no significa que voy a seguir cometiendo otros delitos. ¿Por qué me mira de manera tan diferente?";
+"s4t2"="Yo había hecho algo que lastima a la comunidad, pero estoy inventando ahora dando mi tiempo a la comunidad.";
+"s4t3"="No sé por qué delantal de Bella estaría en mi estudio, quizás Emily trajo aquí cuando vino a verme.";
+"s4t4"="El niño Ryan prestado carro de mi estudio de mí. Pero yo no sé lo que iba a utilizarlo.";
+   
+"s5t1"="Me gusta jugar con Annie y Bella. Su pelo largo muy guapa y me gustaría llevarlo a cabo. Pero si lloran y gritan y no se portan bien, voy a actuar como un policía y detener a los chicos malos.";
+"s5t2"="Me gusta explorar y jugar a las escondidas. Una vez que yo estaba tratando de esconderse de los perros del señor Johnny cuando accidentalmente encontré la entrada del túnel a la casa de la tía Michelle.";
+"s5t3"="Vi a Emily, Pierre, y Bella en la playa desde el mirador, así que los seguí hasta la playa.";
+"s5t4"="La persona a la que menos me gusta es el fotógrafo tío Robert porque no dejaba de tomar fotos de Bella de la fiesta de cumpleaños de Kaden en la casa al exterior, y todo el camino a la playa.";
+"s5t5"="Es como una mosca ... usted no puede conducir en forma!";
+    
+"s6t1"="Teníamos la esperanza de que nuestro cuarto hijo sería una niña, así que habíamos comprado todos los elementos para un bebé durante el embarazo de mi esposa deseando que nuestra esperanza se haría realidad.";
+"s6t2"="Pero aún así, iba en contra de nuestra voluntad. El pañal de la niña que en realidad era para mi hijo. Traqueteo del juguete del bebé era un apoyo cuando estoy tomando fotos de bebés.";
+"s6t3"="Voy a tomar fotos de los bebés, así como de los bebés. La razón por la que sólo tomé fotos de Bella era porque sentía que era la imagen más pura. Cuando yo estaba tomando la última foto, vi a Michelle y Emily.";
+"s6t4"="Parecían estar hablando de algunos de los secretos.";
+    
+"s7t1"="Desde lejos en la casa de Bella, vi Emily caminando de regreso al jardín de Annie con Bella. Así que me acerqué al jardín de Annie también. Pero sólo vi Emily allí, así que acabamos de decir hola a los demás.";
+"s7t2"="Porque ella es enfermera, así que ella se preocupa por mi estado de salud mucho. Aunque no tengo registros de la enfermedad mental en el pasado, todavía tiene la capacidad para cuidar de un bebé.";
+"s7t3"=" Así que me dispuse que este lugar era como un vivero en el cielo. Este vivero está cerca del mar y el océano es como el vientre de una madre.";
+"s7t4"="Me gustaría que el bebé que adopto podría crecer en un ambiente como estar rodeado de vientre cálido de la madre, seguro y dulce. En cuanto a Pierre, que es en realidad un joven tan bien!";
+"s7t5"="Pensé que podía prestarle el dinero para ayudar a conseguir un nuevo comienzo! Su tener antecedentes penales es igual que mis tengan registros de la enfermedad mental, no quieren decir que somos malas personas!";
+     

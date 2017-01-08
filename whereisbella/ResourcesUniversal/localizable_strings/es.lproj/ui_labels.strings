@@ -1,0 +1,41 @@
+/* 
+  ui_labels.strings
+  bella
+
+  Created by Alexis Lin on 13/7/26.
+
+*/
+
+"kPlay"="Jugar";
+"kFullVersion"="Versión Completa";
+"kPurchase"="Comprar";
+"kRestore"="Restaurar";
+"kCancel"="Cancelar";
+"kSuspectList"="Sospechoso de lista";
+"kProfile"="Perfil";
+"kScenes"="Escenas";
+"kEvidences"="Evidencia";
+"kAccuse"="Acusar";
+"kEvidenceFound"="Evidencia encontrado!";
+"kScene"="Escena";
+"kBackground"="Perfil";
+"kMotivations"="Motivaciones";
+"kTestimony"="Testimonio";
+"kSkip"="Omitir";
+"kNext"="Próximo";
+"kMenu"="Menú";
+"kBack"="Espalda";
+"kResume"="Reanudar";
+"kRestart"="Reiniciar";
+"kOK"="OK";
+"kMusic"="Música";
+"kSound"="Sonido";
+
+"kAlertFindDifferences"="Por favor, encontrar las diferencias.";
+"kAlertPuzzle"="Por favor, completar el rompecabezas.";
+"kAlertSudoku"="Por favor, de acuerdo con cifras pedirá introducir color.";
+"kInvestigationFinished"="Investigación Terminado!";
+
+"kAlertAccuse"="Todos los sospechosos han sido investigados. Con la evidencia que han recogido tratar de deducir que secuestró a Bella, y los acusan. Entonces Bella se guardará. ¡Buena suerte!";
+
+"kAlertAnswer"="Como era de esperar, es EMILY se llevó Bella! Aunque Emily fue al estudio de Pierre después, pero rápidamente volvió a la casa de Annie a buscar a Bella. Bella estaba caminando a la sala de piano de Annie, de modo Emily se la llevó y la puso en la correa del bebé y poner a Bella en el asiento de la seguridad del bebé en el coche.";

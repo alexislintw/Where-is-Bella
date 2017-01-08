@@ -1,0 +1,41 @@
+/*
+ ui_labels.strings
+ bella
+ 
+ Created by Alexis Lin on 13/7/26.
+ 
+ */
+
+"kPlay"="开始游戏";
+"kFullVersion"="解锁游戏";
+"kPurchase"="立即购买";
+"kRestore"="恢复购买";
+"kCancel"="取消";
+"kSuspectList"="嫌疑犯名单";
+"kProfile"="人物背景";
+"kScenes"="场景";
+"kEvidences"="证据";
+"kAccuse"="指认";
+"kEvidenceFound"="找到证据";
+"kScene"="场景";
+"kBackground"="背景";
+"kMotivations"="犯罪动机";
+"kTestimony"="证词";
+"kSkip"="全部跳过";
+"kNext"="下一句";
+"kMenu"="回选单";
+"kBack"="回上页";
+"kResume"="返回游戏";
+"kRestart"="重新游戏";
+"kOK"="OK";
+"kMusic"="音乐";
+"kSound"="音效";
+
+"kAlertFindDifferences"="请找出不同之处";
+"kAlertPuzzle"="请组合拼图";
+"kAlertSudoku"="请根据拼图上方及左侧的数字线索填入方块。";
+"kInvestigationFinished"="调查完毕";
+
+"kAlertAccuse"="所有的宾客都已经调查完毕。现在你可以根据你所有搜集到的证据来指认是谁带走了贝拉。希望你能解救贝拉，祝你好运！";
+
+"kAlertAnswer"="如你所料，是爱蜜丽将贝拉带走的！爱蜜丽虽然有跟皮耶去工作室，但她很快地又回到安妮家去找贝拉，当时贝拉在安妮的钢琴室中，於是爱蜜丽把贝拉抱起，放进婴儿背袋里，将贝拉藏在她车上的安全座椅中。";

@@ -1,0 +1,41 @@
+/* 
+  ui_labels.strings
+  bella
+
+  Created by Alexis Lin on 13/7/26.
+
+*/
+
+"kPlay"="Play";
+"kFullVersion"="Full Version";
+"kPurchase"="Purchase";
+"kRestore"="Restore";
+"kCancel"="Cancel";
+"kSuspectList"="Suspect List";
+"kProfile"="Profile";
+"kScenes"="Scenes";
+"kEvidences"="Evidences";
+"kAccuse"="Accuse";
+"kEvidenceFound"="Evidence Found!";
+"kScene"="Scene";
+"kBackground"="Background";
+"kMotivations"="Motivations";
+"kTestimony"="Testimony";
+"kSkip"="Skip All";
+"kNext"="Next";
+"kMenu"="Menu";
+"kBack"="Back";
+"kResume"="Resume";
+"kRestart"="Restart";
+"kOK"="OK";
+"kMusic"="Music";
+"kSound"="Sound";
+
+"kAlertFindDifferences"="Please find the differences.";
+"kAlertPuzzle"="Please complete the puzzle.";
+"kAlertSudoku"="Please filled-in blocks according to number clues shown on the side and top of the puzzle.";
+"kInvestigationFinished"="Investigation Finished!";
+
+"kAlertAccuse"="All the suspects have been investigated. Using the evidence you have collected try to deduce who abducted Bella, and accuse him or her. Then Bella will be saved. Good Luck!";
+
+"kAlertAnswer"="The guilty one: Emily. Though Emily went to Pierre's studio afterwards, but quickly, she returned to Annie's home to look for Bella. Bella was walking to Annie's piano room, so Emily took her up and put her in the baby strap. But because Bella was unwilling to go and was crying so Emily took the strap off and put Bella in the baby's safety seat in the car.";

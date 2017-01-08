@@ -1,0 +1,41 @@
+/* 
+  ui_labels.strings
+  bella
+
+  Created by Alexis Lin on 13/7/26.
+
+*/
+
+"kPlay"="プレイ";
+"kFullVersion"="完全版";
+"kPurchase"="購入";
+"kRestore"="購入を復元";
+"kCancel"="キャンセル";
+"kSuspectList"="容疑者のリスト";
+"kProfile"="プロファイル";
+"kScenes"="場面";
+"kEvidences"="証拠";
+"kAccuse"="識別";
+"kEvidenceFound"="証拠を手に入れた";
+"kScene"="場面";
+"kBackground"="プロファイル";
+"kMotivations"="モチベーション";
+"kTestimony"="証言";
+"kSkip"="スキップ";
+"kNext"="次へ";
+"kMenu"="メニュー";
+"kBack"="戻る";
+"kResume"="ゲームに戻る";
+"kRestart"="リスタート";
+"kOK"="OK";
+"kMusic"="音楽";
+"kSound"="サウンド";
+
+"kAlertFindDifferences"="別の場所を見つけてください";
+"kAlertPuzzle"="コンビネーションパズルをしてください";
+"kAlertSudoku"="パズルの側面と上部に表示される数字の手がかりに従ってブロックいっぱいインしてください。";
+"kInvestigationFinished"="調査終了";
+
+"kAlertAccuse"="容疑する七位のお客さんの調査は完了しました。今、あなたは収集した証拠に沿って、誰がベラーを連れ去ったのを指名しましょう！グッドラック！";
+
+"kAlertAnswer"="あなたが思う様に、ベラーはエミリが連れ去ったのです。エミリはその後ピエレと一緒に工作室へ行ったが、でも、直ぐアンニ家に戻ってベラーを会いに行きました。その当時、ベラーはアンニのピアノ室に入って、エミリがベラーを抱っこして、赤ちゃん用のストラップに入れました。ベラーを車の安全椅子に隠されて置きました。";

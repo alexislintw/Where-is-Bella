@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>k-1</key>
+	<dict>
+		<key>kDetectiveName</key>
+		<string>Jingong</string>
+		<key>kFrontImage</key>
+		<string>char_robot_front_2.png</string>
+		<key>kSideImage</key>
+		<string>char_robot_side_4.png</string>
+	</dict>
+	<key>k-2</key>
+	<dict>
+		<key>kDetectiveName</key>
+		<string>Jasmine</string>
+		<key>kFrontImage</key>
+		<string>char_doll_front_2.png</string>
+		<key>kSideImage</key>
+		<string>char_doll_side_4.png</string>
+	</dict>
+</dict>
+</plist>
