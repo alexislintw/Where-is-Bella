@@ -1,7 +1,7 @@
 # Where is Bella
 _iphone_v1.0_20130830_
 
-"Where is Bella" is a detective, puzzle-solving story style hidden objects searching game. If you like mystery and puzzle-solving stories, do not miss this exciting game!
+"Where is Bella" is a detective, puzzle-solving story style hidden objects searching game.
 
 ### Features of the game：
 - Compact detective puzzle-solving story
