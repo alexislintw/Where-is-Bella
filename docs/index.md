@@ -25,9 +25,11 @@ Before the "Time Suspension Bubble" expires, you must look for evidences in the 
 
 
 ### Screen Shots
-![Image](/docs/images/screenshot_000.png) ![Image](/docs/images/screenshot_001.png)
+![Image](/docs/images/screenshot_000.png)
+![Image](/docs/images/screenshot_001.png)
 
-![Image](/docs/images/screenshot_002.png) ![Image](/docs/images/screenshot_003.png)
+![Image](/docs/images/screenshot_002.png)
+![Image](/docs/images/screenshot_003.png)
 
 
 ### Official Trailer
