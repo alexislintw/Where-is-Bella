@@ -1,6 +1,6 @@
 # Where is Bella
 
-![Image](/screenshots/title1.png)
+![Image](/images/title1.png)
 
 "Where is Bella" is a detective, puzzle-solving story style hidden objects searching game. If you like mystery and puzzle-solving stories, do not miss this exciting game!
 
@@ -25,19 +25,19 @@ Before the "Time Suspension Bubble" expires, you must look for evidences in the 
 
 
 ### Screen Shots
-![Image](/screenshots/screenshot_000.png)
-![Image](/screenshots/screenshot_001.png)
+![Image](/images/screenshot_000.png)
+![Image](/images/screenshot_001.png)
 
-![Image](/screenshots/screenshot_002.png)
-![Image](/screenshots/screenshot_003.png)
+![Image](/images/screenshot_002.png)
+![Image](/images/screenshot_003.png)
 
 
 ### Official Trailer
-[![Image](/screenshots/trailer.png)](https://youtu.be/c4bvWF0BhkY)
+[![Image](/images/trailer.png)](https://youtu.be/c4bvWF0BhkY)
 
 
 ### Released on the App Store in August 2013
-![Image](/screenshots/itunes.png)
+![Image](/images/itunes.png)
 
 
 ### Press
