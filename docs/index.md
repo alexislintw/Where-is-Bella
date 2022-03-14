@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Where is Bella
 
-You can use the [editor on GitHub](https://github.com/alexislintw/Where-is-Bella/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](/screenshots/title1.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"Where is Bella" is a detective, puzzle-solving story style hidden objects searching game. If you like mystery and puzzle-solving stories, do not miss this exciting game!
 
-### Markdown
+Bella is an active and adorable one and a half year old girl, who had not quite yet learned to talk but likes to walk around by herself and explore this new and interesting world. Today is Bella's brother Kaden's third birthday and 7 guests had come to celebrate it at this house by the Santa Monica Beach in California. While everyone was celebrating, Bella's favorite toys- King Kong the robot and Molly the doll, realized that Bella had gone missing! Not wanting to spoil the joyful atmosphere at the party for Kaden's birthday, King Kong and Molly spread the magical bubble "Time suspension Bubble" to freeze everyone at the celebration.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Before the "Time Suspension Bubble" expires, you must look for evidences in the 28 scenes and finish investigating the 7 guests. Either Bella got lost by herself or was taken by someone, hurry up and save the lovely little Bella with King Kong the robot and Molly the doll!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Features of the game：
+- Compact detective puzzle-solving story
+- Rich and versatile game scenes
+- Challenging series of little games
+- Scene Zoom in/out 
+- Hints throughout the game
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 4 scenes of the game are free and charge by in-App purchase for other scences:
+- 28 beautifully drawn scenes
+- 7 roles with different personalities
+- 7 fun and interesting little games
+- Over 500 hidden objects
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Screen Shots
+![Image](/screenshots/screenshot_000.png)
+![Image](/screenshots/screenshot_001.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![Image](/screenshots/screenshot_002.png)
+![Image](/screenshots/screenshot_003.png)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexislintw/Where-is-Bella/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Official Trailer
+[![Image](/screenshots/trailer.png)](https://youtu.be/c4bvWF0BhkY)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Released on the App Store in August 2013
+![Image](/screenshots/itunes.png)
+
+
+### Press
+[國人自製推理解謎尋物遊戲《尋找貝拉》推出 iOS 版](https://gnn.gamer.com.tw/detail.php?sn=84781)
+
